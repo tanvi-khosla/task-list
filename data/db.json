@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Leetcode Practice",
+      "details": "Complete 6 leetcode stack problems",
+      "complete": true
+    },
+    {
+      "id": 4,
+      "title": "Go to Wells Fargo today",
+      "details": "Transfer Money today",
+      "complete": true
+    },
+    {
+      "title": "Learn vue",
+      "details": "Watch vue videos on yt",
+      "complete": false,
+      "id": 5
+    }
+  ]
+}
